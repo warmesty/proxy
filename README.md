@@ -1,2 +1,2 @@
-# proxy-https
-Proxy http
+# proxy
+Proxy
